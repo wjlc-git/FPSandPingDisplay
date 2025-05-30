@@ -1,0 +1,2 @@
+# FPSandPingDisplay
+Got it! Here’s a concise description under 350 characters:  ---  **wjlc quick info** is a lightweight, always-on-top overlay showing real-time FPS and ping. It includes a separate settings window to customize colors, font size, and toggle stats. The frameless, draggable display provides minimal, customizable system info for gamers and users.
